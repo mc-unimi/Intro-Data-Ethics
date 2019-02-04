@@ -37,8 +37,6 @@ In the first 30 minutes (approximately) the instructor will summarize the main p
 	•	Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability, M. Ananny and K. Crawford, New Media & Society 20.3 : 973-989, 2018.
 	•	The limits of transparency: Data brokers and commodification, M. Crain, New Media & Society 20.1 : 88-104, 2018.
 
-## Ethically Aligned Design and Ethics Guidelines for Trustworthy AI (25 Feb 2019)
+## to be defined (25 Feb 2019)
 
-	•	Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2, The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, 2017. http://standards. ieee.org/develop/indconn/ec/autonomous_systems.html.
-	•	Draft Ethics guidelines for trustworthy AI, High-Level Expert Group on Artificial Intelligence, European Commission, Directorate-General for Communication, 2018. https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai
-
+	•	still to define, a couple of options under evaluation.
