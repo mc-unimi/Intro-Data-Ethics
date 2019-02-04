@@ -9,7 +9,7 @@ In the first 30 minutes (approximately) the instructor will summarize the main p
 
 ## Data Ethics (07 Feb 2019)
 
-	•	What is Data Ethics?, L. Floridi, M. Taddeo, 2016. https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0360
+	•	The ethics of algorithms: Mapping the debate, B. D. Mittelstadt, P. Allo, M. Taddeo, S. Wachter and L. Floridi, Big Data & Society 3.2 : 2053951716679679, 2016.
 	•	Toward an Ethics of Algorithms: Convening, Observation, Probability, and Timeliness, M. Ananny, Science, Technology, & Human Values, SAGE, Vol. 41(1) 93-117, 2016.
 	•	Social data: Biases, methodological pitfalls, and ethical boundaries, Olteanu, Alexandra, et al., 2016. https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SSRN-id2886526.pdf
 	•	AI Now Report 2018, M. Whittaker et al, AI Now Institute, New York University, 2018. https://ainowinstitute.org/AI_Now_2018_Report.pdf
