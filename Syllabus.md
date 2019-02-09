@@ -31,7 +31,7 @@ In the first 30 minutes (approximately) the instructor will summarize the main p
 
 ## 4. Machine Ethics, Self-driving Cars, and the Trolley Problem (21 Feb 2019)
 
-	•	The Moral Machine experiment. E. Awad et al., Nature, 563.7729 : 59, 2018.
+	•	The Moral Machine experiment. E. Awad et al., Nature, 563.7729 : 59, 2018. https://www.nature.com/articles/s41586-018-0637-6.pdf
 	•	The Trolley Problem. J. J. Thomson, 94 Yale L. J. 1395, 1984. http://mrdivis.yolasite.com/resources/trolley%20problem.pdf
 	•	Incorporating Ethics into Artificial Intelligence. A. Etzioni and O. Etzioni, J Ethics, 2017. https://link.springer.com/article/10.1007/s10892-017-9252-2
 
