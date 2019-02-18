@@ -40,7 +40,7 @@ In the first 30 minutes (approximately) the instructor will summarize the main p
 	•	Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. M. Ananny and K. Crawford, New Media & Society 20.3 : 973-989, 2018. http://mike.ananny.org/papers/anannyCrawford_seeingWithoutKnowing_2016.pdf
 	•	The limits of transparency: Data brokers and commodification. M. Crain, New Media & Society 20.1 : 88-104, 2018. http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1177&context=qc_pubs
 
-## 6. China as a Data-driven Society (Feb 2019)
+## 6. China as a Data-driven Society (27 Feb 2019)
 
 	•	China's Social Credit System: An Evolving Practice of Control. R. Creemers, University of Leiden, 2018. http://www.iberchina.org/files/2018/social_credit_china.pdf
 	•	Chinese Social Media and Big Data: Big Data, Big Brother, Big Profit?. M. Jiang and K. Fu, Policy & Internet, Vol. 10, No. 4, 2018. https://onlinelibrary.wiley.com/doi/10.1002/poi3.187
